@@ -1,2 +1,2 @@
-# oj.github.io
+# OJ
 Online Judge Domain Name for Algorithm Courses
